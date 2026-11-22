@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Mohammad Reza and Zahra//Wedding Invitation//FA
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:mr-zahra-wedding-20261210T180000@invitation
+DTSTAMP:20261120T120000Z
+DTSTART:20261210T143000Z
+SUMMARY:Wedding of Mohammad Reza and Zahra
+DESCRIPTION:باغ تالار آرزو، کرمانشاه، خروجی به سمت سنقر، ابتدای جاده سیاه‌بید. شروع مراسم ساعت ۱۸:۰۰.
+LOCATION:باغ تالار آرزو، کرمانشاه، جاده سیاه‌بید
+END:VEVENT
+END:VCALENDAR
